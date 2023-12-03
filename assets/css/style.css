@@ -126,6 +126,11 @@ header nav ul li {
     text-align: center;
 }
 
+/* Justify text inside aside semantic element */
+.benefits section p{
+    text-align: justify;
+}
+
 .benefits section img{
     display: block;
     margin: 10px auto;
