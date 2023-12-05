@@ -35,6 +35,6 @@ This project works on any browsers using this link: https://sohailshirzad.github
 ### Installation
 No installation is required. 
 
-###Configuration
+### Configuration
 
 No Configuration is required
